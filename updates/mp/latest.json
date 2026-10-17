@@ -1,11 +1,11 @@
 {
-  "build": 1792268791,
+  "build": 1792270319,
   "version": "0.3.0",
-  "file": "game-1792268791.json.gz",
-  "sha256": "8211ab38bd4a35bd1d663932187ab3c1217fdc49702d3ffa2cae4f4cb46f85c8",
-  "size": 1134787,
+  "file": "game-1792270319.json.gz",
+  "sha256": "f3f4c59090e9f582568d779d555cf094616a36e57e57dc65bc2b35274569be0b",
+  "size": 1152005,
   "minShell": 1,
-  "date": "2026-10-17T20:26:31.000Z",
-  "commit": "9b03f03",
-  "notes": "Pièges muraux : Meurtrière (carreau qui traverse le couloir), Bouche de feu, Soupirail de soufre — vise une dalle, le mur le plus proche du curseur reçoit le piège, cumulable avec un piège au sol. Pièges niveau 3. Portes : ferrée puis obsidienne (épines). Un piège désarmé ou une porte enfoncée reste en épave : un diablotin la répare contre de l'or."
+  "date": "2026-10-17T20:51:59.000Z",
+  "commit": "6bb86c2",
+  "notes": "Mode RTS : glisse un rectangle pour sélectionner tes créatures (Ctrl+clic : ajouter/retirer), clic droit = un ordre pour toutes, Maj+clic droit = ordres en file, Ctrl+1..4 / F1..F4 = groupes, Suppr = libérer ; les ordres sont tenus jusqu'au bout ; pour creuser, appuie sur X puis glisse (l'aide passe sur F10). Nouveaux démons de gestion : Ferronnier (répare pièges et portes à moitié prix) et Barbier (soigne les blessés). Diablotins plus prudents face à la vermine."
 }
