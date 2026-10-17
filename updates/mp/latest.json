@@ -1,11 +1,11 @@
 {
-  "build": 1792275153,
+  "build": 1792275346,
   "version": "0.3.0",
-  "file": "game-1792275153.json.gz",
-  "sha256": "f5f974b5bfbe34f430518fef0e03754f48d9acb442527cbc7061e4d264177cde",
-  "size": 1180143,
+  "file": "game-1792275346.json.gz",
+  "sha256": "a2698bde7d4fce4798feb644c2d050bf2b997d8964b313681fcf684d939658ba",
+  "size": 1180477,
   "minShell": 1,
-  "date": "2026-10-17T22:12:33.000Z",
-  "commit": "d3dd7fd",
-  "notes": "15 vagues (l'Élu à la 15e) et 6 nouveaux héros : Arbalétrier, Artificier (bombes), Thaumaturge (éclair en chaîne), Paladin (aura), Séraphin (vole au-dessus des pièges au sol), Colosse (siège). Or : bourse des héros tués, Tribut de l'Avarice, veines de sang-rubis inépuisables."
+  "date": "2026-10-17T22:15:46.000Z",
+  "commit": "4f7a36d",
+  "notes": "Menu « Mise à jour » : affiche clairement « Tu as la dernière version » (vérification faite au lancement)."
 }
