@@ -1,11 +1,11 @@
 {
-  "build": 1792275346,
+  "build": 1792278006,
   "version": "0.3.0",
-  "file": "game-1792275346.json.gz",
-  "sha256": "a2698bde7d4fce4798feb644c2d050bf2b997d8964b313681fcf684d939658ba",
-  "size": 1180477,
+  "file": "game-1792278006.json.gz",
+  "sha256": "42f4d4e9ba9db0fb0c5711cba20ff744605fc6c05fdc48c91ce9a2f18ce5ab24",
+  "size": 1186955,
   "minShell": 1,
-  "date": "2026-10-17T22:15:46.000Z",
-  "commit": "4f7a36d",
-  "notes": "Menu « Mise à jour » : affiche clairement « Tu as la dernière version » (vérification faite au lancement)."
+  "date": "2026-10-17T23:00:06.000Z",
+  "commit": "d501868",
+  "notes": "Portail infernal en multijoueur : bâtis-en un chez toi et chez un allié, tes démons passent d'un Enfer à l'autre d'un clic droit (ils gardent son Trône 5 min). Ferronnier et Barbier : leurs prérequis s'affichent enfin correctement (fini le « 15/NaN »). Symboles → ≥ ✓ affichés au lieu de « ? »."
 }
