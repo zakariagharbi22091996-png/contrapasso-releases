@@ -1,11 +1,11 @@
 {
-  "build": 1792254999,
+  "build": 1792258654,
   "version": "0.3.0",
-  "file": "game-1792254999.json.gz",
-  "sha256": "2daae3ba90b87f0f4e5fcd75aa8dd8b7346e5e786da7bb3a01e78c1fb3991313",
-  "size": 1073684,
+  "file": "game-1792258654.json.gz",
+  "sha256": "e09cf72116b7acc3ae83cb7b937d5fa76142d024f9145854c4dd7ad73f2fe70a",
+  "size": 1092537,
   "minShell": 1,
-  "date": "2026-10-17T16:36:39.000Z",
-  "commit": "bcd467e",
-  "notes": "Mains de la vue subjective et de la gifle redessinées"
+  "date": "2026-10-17T17:37:34.000Z",
+  "commit": "af86a2c",
+  "notes": "Vue subjective repensée (endurance, combos, coup chargé, garde/parade, esquive, coups annoncés) et possession en multijoueur"
 }
