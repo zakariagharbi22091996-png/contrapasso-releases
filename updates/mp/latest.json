@@ -1,11 +1,11 @@
 {
-  "build": 1792251666,
+  "build": 1792252961,
   "version": "0.3.0",
-  "file": "game-1792251666.json.gz",
-  "sha256": "75166a674503aa9f10e5a3d8bff1192ad6d9622621cb97b0be2c72d771a7afdf",
-  "size": 1071611,
+  "file": "game-1792252961.json.gz",
+  "sha256": "db1a71ca3d25450fb8745202a6f3c6cf2b7147684dccda0b537fd96dcd500e06",
+  "size": 1073424,
   "minShell": 1,
-  "date": "2026-10-17T15:41:06.000Z",
-  "commit": "98f865b",
-  "notes": "Écran titre : indique si le jeu est à jour"
+  "date": "2026-10-17T16:02:41.000Z",
+  "commit": "6a05c46",
+  "notes": "Contrôles de la main, curseurs redessinés, créatures qui gigotent"
 }
