@@ -1,11 +1,11 @@
 {
-  "build": 1792258654,
+  "build": 1792260424,
   "version": "0.3.0",
-  "file": "game-1792258654.json.gz",
-  "sha256": "e09cf72116b7acc3ae83cb7b937d5fa76142d024f9145854c4dd7ad73f2fe70a",
-  "size": 1092537,
+  "file": "game-1792260424.json.gz",
+  "sha256": "56819f84ddc44d4e51d88ddcf26054042a21278ae289c1fb2538f286b7f5c1d4",
+  "size": 1095865,
   "minShell": 1,
-  "date": "2026-10-17T17:37:34.000Z",
-  "commit": "af86a2c",
-  "notes": "Vue subjective repensée (endurance, combos, coup chargé, garde/parade, esquive, coups annoncés) et possession en multijoueur"
+  "date": "2026-10-17T18:07:04.000Z",
+  "commit": "91f3f51",
+  "notes": "Plusieurs sauvegardes au choix ; cris des damnés adoucis"
 }
