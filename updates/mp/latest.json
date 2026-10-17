@@ -1,11 +1,11 @@
 {
-  "build": 1792252961,
+  "build": 1792254999,
   "version": "0.3.0",
-  "file": "game-1792252961.json.gz",
-  "sha256": "db1a71ca3d25450fb8745202a6f3c6cf2b7147684dccda0b537fd96dcd500e06",
-  "size": 1073424,
+  "file": "game-1792254999.json.gz",
+  "sha256": "2daae3ba90b87f0f4e5fcd75aa8dd8b7346e5e786da7bb3a01e78c1fb3991313",
+  "size": 1073684,
   "minShell": 1,
-  "date": "2026-10-17T16:02:41.000Z",
-  "commit": "6a05c46",
-  "notes": "Contrôles de la main, curseurs redessinés, créatures qui gigotent"
+  "date": "2026-10-17T16:36:39.000Z",
+  "commit": "bcd467e",
+  "notes": "Mains de la vue subjective et de la gifle redessinées"
 }
