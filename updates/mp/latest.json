@@ -1,11 +1,11 @@
 {
-  "build": 1792261085,
+  "build": 1792263497,
   "version": "0.3.0",
-  "file": "game-1792261085.json.gz",
-  "sha256": "bcbfc13e70d9c1763d55e0191e030ed946b513d4f8eed23a2afc346b85701c4f",
-  "size": 1096832,
+  "file": "game-1792263497.json.gz",
+  "sha256": "e8fc9b3f8a8666dea6d5e183a5a7eac8bd5fe1814af513fdaf6482ba6e2ab201",
+  "size": 1101525,
   "minShell": 1,
-  "date": "2026-10-17T18:18:05.000Z",
-  "commit": "5714625",
-  "notes": "Salon Steam : bouton Copier réparé, collage fiable"
+  "date": "2026-10-17T18:58:17.000Z",
+  "commit": "fa75639",
+  "notes": "Bouton Mise à jour (titre, pause). Alliés : Montrer ma carte. Tutoriel : l'or ne bloque plus. Clic sur les créatures plus fiable."
 }
