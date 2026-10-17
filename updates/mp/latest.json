@@ -1,11 +1,11 @@
 {
-  "build": 1792278006,
+  "build": 1792280125,
   "version": "0.3.0",
-  "file": "game-1792278006.json.gz",
-  "sha256": "42f4d4e9ba9db0fb0c5711cba20ff744605fc6c05fdc48c91ce9a2f18ce5ab24",
-  "size": 1186955,
+  "file": "game-1792280125.json.gz",
+  "sha256": "88aecd813f3bd4fdcefe83c7028e95444a4472164ed0d278dc63d407b2a24d83",
+  "size": 1190506,
   "minShell": 1,
-  "date": "2026-10-17T23:00:06.000Z",
-  "commit": "d501868",
-  "notes": "Portail infernal en multijoueur : bâtis-en un chez toi et chez un allié, tes démons passent d'un Enfer à l'autre d'un clic droit (ils gardent son Trône 5 min). Ferronnier et Barbier : leurs prérequis s'affichent enfin correctement (fini le « 15/NaN »). Symboles → ≥ ✓ affichés au lieu de « ? »."
+  "date": "2026-10-17T23:35:25.000Z",
+  "commit": "d89be0d",
+  "notes": "Multijoueur : choisis la taille de la carte dans le salon (Réglages → Carte) : Normale, Grande, Très grande, Immense ou Gigantesque (jusqu'à 256 × 256). L'archidémon allié se prend dans la main (lâché, il garde l'endroit une minute). Les diablotins fuient quand on les attaque (héros, araignées, nuées…) au lieu d'aller mourir en boucle. Équilibrage : les héros ripostent contre la Succube, les démons blessés se replient pour se soigner, Cerbère renforcé, Démon cornu un peu moins écrasant."
 }
