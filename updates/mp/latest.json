@@ -1,11 +1,11 @@
 {
-  "build": 1792265848,
+  "build": 1792267663,
   "version": "0.3.0",
-  "file": "game-1792265848.json.gz",
-  "sha256": "2a842863fc5850a244beb057e0d4ff18576175677c85db9258cdc7b9fcebeb53",
-  "size": 1114742,
+  "file": "game-1792267663.json.gz",
+  "sha256": "cd5ed8018969c8edd83db45d9badd25e000232dfcfefe5510ca5dc2f3dd4526e",
+  "size": 1126337,
   "minShell": 1,
-  "date": "2026-10-17T19:37:28.000Z",
-  "commit": "ce8f117",
-  "notes": "Nouveau démon : le Geôlier (trie et ravive tes âmes). Multijoueur : continuer après la victoire, sauvegarder la partie et la reprendre seul, continuer seul si l'hôte part."
+  "date": "2026-10-17T20:07:43.000Z",
+  "commit": "bb71381",
+  "notes": "Quatre archidémons (Moloch, Azazel, Belzébuth, Mammon) avec leurs gestes ; l'archidémon allié se possède (vue haute) et obéit au clic droit ; panneau en haut à gauche repliable (recliquer l'onglet) ; ordres au clic droit ; sorts à cible qui vont sur une créature valable ; moins de notifications de Corruption."
 }
