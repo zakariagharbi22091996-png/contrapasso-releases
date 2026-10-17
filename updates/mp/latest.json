@@ -1,11 +1,11 @@
 {
-  "build": 1792263497,
+  "build": 1792263937,
   "version": "0.3.0",
-  "file": "game-1792263497.json.gz",
-  "sha256": "e8fc9b3f8a8666dea6d5e183a5a7eac8bd5fe1814af513fdaf6482ba6e2ab201",
-  "size": 1101525,
+  "file": "game-1792263937.json.gz",
+  "sha256": "0c30a7ef3b8eccb5ea1b7b35a94f4227ef23e565c5d9d6f776c5304d73fc6412",
+  "size": 1101782,
   "minShell": 1,
-  "date": "2026-10-17T18:58:17.000Z",
-  "commit": "fa75639",
-  "notes": "Bouton Mise à jour (titre, pause). Alliés : Montrer ma carte. Tutoriel : l'or ne bloque plus. Clic sur les créatures plus fiable."
+  "date": "2026-10-17T19:05:37.000Z",
+  "commit": "80e33bf",
+  "notes": "Paie affichée en clair. Bouton Mise à jour (titre, pause). Alliés : Montrer ma carte. Tutoriel : l'or ne bloque plus."
 }
