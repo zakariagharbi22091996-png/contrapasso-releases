@@ -1,11 +1,11 @@
 {
-  "build": 1792272331,
+  "build": 1792275153,
   "version": "0.3.0",
-  "file": "game-1792272331.json.gz",
-  "sha256": "bab52dc6eb474192f76710116e116649f45d2dd21396ca9a4e79ab939e28f736",
-  "size": 1155935,
+  "file": "game-1792275153.json.gz",
+  "sha256": "f5f974b5bfbe34f430518fef0e03754f48d9acb442527cbc7061e4d264177cde",
+  "size": 1180143,
   "minShell": 1,
-  "date": "2026-10-17T21:25:31.000Z",
-  "commit": "1df78d7",
-  "notes": "Cinq nouveaux pouvoirs : Chaînes de l'Abîme (héros entravés), Mur d'os (coupe un couloir 15 s), Baume de soufre (soigne tes démons), Lever les morts (3 squelettes alliés), Pluie de soufre (zone brûlante)."
+  "date": "2026-10-17T22:12:33.000Z",
+  "commit": "d3dd7fd",
+  "notes": "15 vagues (l'Élu à la 15e) et 6 nouveaux héros : Arbalétrier, Artificier (bombes), Thaumaturge (éclair en chaîne), Paladin (aura), Séraphin (vole au-dessus des pièges au sol), Colosse (siège). Or : bourse des héros tués, Tribut de l'Avarice, veines de sang-rubis inépuisables."
 }
