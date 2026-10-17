@@ -1,11 +1,11 @@
 {
-  "build": 1792260424,
+  "build": 1792261085,
   "version": "0.3.0",
-  "file": "game-1792260424.json.gz",
-  "sha256": "56819f84ddc44d4e51d88ddcf26054042a21278ae289c1fb2538f286b7f5c1d4",
-  "size": 1095865,
+  "file": "game-1792261085.json.gz",
+  "sha256": "bcbfc13e70d9c1763d55e0191e030ed946b513d4f8eed23a2afc346b85701c4f",
+  "size": 1096832,
   "minShell": 1,
-  "date": "2026-10-17T18:07:04.000Z",
-  "commit": "91f3f51",
-  "notes": "Plusieurs sauvegardes au choix ; cris des damnés adoucis"
+  "date": "2026-10-17T18:18:05.000Z",
+  "commit": "5714625",
+  "notes": "Salon Steam : bouton Copier réparé, collage fiable"
 }
