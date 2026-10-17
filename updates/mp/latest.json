@@ -1,11 +1,11 @@
 {
-  "build": 1792251057,
+  "build": 1792251666,
   "version": "0.3.0",
-  "file": "game-1792251057.json.gz",
-  "sha256": "4445d1009cf0fa02704e58f1b738b79e219d28c0b602508e557098b4e853a1e8",
-  "size": 1071424,
+  "file": "game-1792251666.json.gz",
+  "sha256": "75166a674503aa9f10e5a3d8bff1192ad6d9622621cb97b0be2c72d771a7afdf",
+  "size": 1071611,
   "minShell": 1,
-  "date": "2026-10-17T15:30:57.000Z",
-  "commit": "d233611",
-  "notes": "Multijoueur Royaumes rivaux (Steam), menu agrandi, possession au double-clic, fiche des pièges, compteur d'oisifs corrigé"
+  "date": "2026-10-17T15:41:06.000Z",
+  "commit": "98f865b",
+  "notes": "Écran titre : indique si le jeu est à jour"
 }
