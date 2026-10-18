@@ -1,11 +1,11 @@
 {
-  "build": 1792280125,
+  "build": 1792281606,
   "version": "0.3.0",
-  "file": "game-1792280125.json.gz",
-  "sha256": "88aecd813f3bd4fdcefe83c7028e95444a4472164ed0d278dc63d407b2a24d83",
-  "size": 1190506,
+  "file": "game-1792281606.json.gz",
+  "sha256": "d036f1c881d8a34c5355e057dc7f635ab5f520e38d58809b5674cd53dbbbac89",
+  "size": 1199778,
   "minShell": 1,
-  "date": "2026-10-17T23:35:25.000Z",
-  "commit": "d89be0d",
-  "notes": "Multijoueur : choisis la taille de la carte dans le salon (Réglages → Carte) : Normale, Grande, Très grande, Immense ou Gigantesque (jusqu'à 256 × 256). L'archidémon allié se prend dans la main (lâché, il garde l'endroit une minute). Les diablotins fuient quand on les attaque (héros, araignées, nuées…) au lieu d'aller mourir en boucle. Équilibrage : les héros ripostent contre la Succube, les démons blessés se replient pour se soigner, Cerbère renforcé, Démon cornu un peu moins écrasant."
+  "date": "2026-10-18T00:00:06.000Z",
+  "commit": "f3e6963",
+  "notes": "Taille de la carte au choix en solo (Partie libre : de Normale 64×64 à Gigantesque 128×128) ; grandes cartes fluides en solo et en multijoueur (plus de ralentissements) ; raccourcis clavier personnalisables (Options → Raccourcis clavier : salles, pièges, pouvoirs, sorts des Dons dont le Pacte, murmures…) ; touche 4 : améliorer le piège survolé ; pièges posés en rectangle (glisser) ou en ligne (Maj+glisser)."
 }
