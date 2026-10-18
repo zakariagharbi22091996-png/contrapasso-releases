@@ -1,11 +1,11 @@
 {
-  "build": 1792285001,
+  "build": 1792285541,
   "version": "0.3.0",
-  "file": "game-1792285001.json.gz",
-  "sha256": "89a92ea8c5e1ca47ccd04414ee01843e5177183def0757b4a821019cd441c03e",
-  "size": 1224734,
+  "file": "game-1792285541.json.gz",
+  "sha256": "634d37cf1c9db610b1aa69a66e42e4c7b24dbea9a9401131ee0c66ab38e7a896",
+  "size": 1228289,
   "minShell": 1,
-  "date": "2026-10-18T00:56:41.000Z",
-  "commit": "6d45756",
-  "notes": "Multijoueur jusqu'à 8 joueurs (salon → Réglages → Joueurs max) : carte à 8 foyers équitables (320 à 384 cases selon la taille), 8 couleurs ; la Diplomatie montre les actions du rival choisi (clic sur sa ligne). En connexion directe (IP/Radmin) tout de suite ; par Steam au-delà de 4, il faut le prochain installeur."
+  "date": "2026-10-18T01:05:41.000Z",
+  "commit": "c4faffd",
+  "notes": "Marché des Damnés (multijoueur, bouton « Marché ») : achète et vends Souffrance et âmes de chaque péché contre de l'or, à des cours communs qui montent et baissent avec les échanges de tous. Les alliances rapportent : ta taxe baisse de 7 points par allié (0 % dès 3 alliés) et chaque minute, tes comptoirs d'alliance te versent 6 % de l'or gagné par chacun de tes alliés."
 }
