@@ -1,11 +1,11 @@
 {
-  "build": 1792288332,
+  "build": 1792289367,
   "version": "0.3.0",
-  "file": "game-1792288332.json.gz",
-  "sha256": "2c05e57f29b0ef73bf4e6ce0fc0a2b0a2aeef271e92488de45906aaa6e3e1e4a",
-  "size": 1242076,
+  "file": "game-1792289367.json.gz",
+  "sha256": "53fca6b63fabcd2031b5348b8e89d8db13df55b9d7e46dc2f0528f97e2ad34ac",
+  "size": 1242861,
   "minShell": 1,
-  "date": "2026-10-18T01:52:12.000Z",
-  "commit": "d800943",
-  "notes": "Revendiquer le sol en priorité : avec l'outil Creuser (X), glisse sur le sol non revendiqué, ou clic droit dessus sans outil (le chemin jusqu'à ton territoire est marqué aussi) ; diablotins sélectionnés + clic droit : ils le revendiquent. Correctif : améliorer une salle en multijoueur la faisait revenir au niveau 1 en gardant l'or."
+  "date": "2026-10-18T02:09:27.000Z",
+  "commit": "bc81500",
+  "notes": "Caravanes : elles font l'aller-retour en continu, sans fin (seul « Rappeler » les arrête), vont plus vite, et le rapport estimé par minute s'affiche (tracé, fiche, Comptoir)."
 }
