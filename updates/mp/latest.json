@@ -1,11 +1,11 @@
 {
-  "build": 1792356137,
+  "build": 1792356354,
   "version": "0.3.0",
-  "file": "game-1792356137.json.gz",
-  "sha256": "922a1f654c35e9cb6e8f8eca03a2cc7dff33e7f0013cf22f0ec7e8a6039aafab",
-  "size": 1256367,
+  "file": "game-1792356354.json.gz",
+  "sha256": "98d1636a3151791c7b777ad19dbce775ae6f1825c7da1c1d2c2f28c403c1c510",
+  "size": 1257995,
   "minShell": 1,
-  "date": "2026-10-18T20:42:17.000Z",
-  "commit": "77e62d5",
-  "notes": "4 sceaux d'archidémon par carte (4 en normale, plus sur les grandes cartes : 8/8/12/16)"
+  "date": "2026-10-18T20:45:54.000Z",
+  "commit": "4a48189",
+  "notes": "Invocation directe de créatures : 7 pouvoirs pour faire sortir de terre Bourreau, Cerbère, Succube, Démon cornu, Sœur de sang, Béhémoth et Liche (prix élevés, recharge, lit requis)"
 }
