@@ -1,11 +1,11 @@
 {
-  "build": 1792356354,
+  "build": 1792358144,
   "version": "0.3.0",
-  "file": "game-1792356354.json.gz",
-  "sha256": "98d1636a3151791c7b777ad19dbce775ae6f1825c7da1c1d2c2f28c403c1c510",
-  "size": 1257995,
+  "file": "game-1792358144.json.gz",
+  "sha256": "e45b1fc9349d68a10d0953e9e5f80cc4c522b4e84762e6d85ea9e5f4e223d242",
+  "size": 1274796,
   "minShell": 1,
-  "date": "2026-10-18T20:45:54.000Z",
-  "commit": "4a48189",
-  "notes": "Invocation directe de créatures : 7 pouvoirs pour faire sortir de terre Bourreau, Cerbère, Succube, Démon cornu, Sœur de sang, Béhémoth et Liche (prix élevés, recharge, lit requis)"
+  "date": "2026-10-18T21:15:44.000Z",
+  "commit": "32fe81e",
+  "notes": "40 nouvelles créatures : 20 démons équilibrés (Gargouille, Molosse, Fielleux, Sacrificateur, Diablet de sang, Guerrier d'os, Boursouflé explosif, Spectre, Banshee, Ogre de l'abîme, Vampire, Incube, Fiélon, Chevalier damné, Dévoreur d'âmes, Éfrit, Wight, Golem de sang, Ombre, Abyssal) + 20 classes humaines (Écuyer, Archer, Zélote, Spadassin, Rôdeur, Alchimiste, Flagellant, Berserker, Chasseur de sorcières, Prêtre de guerre, Vierge au bouclier, Assassin, Croisé, Inquisiteur, Sorcier noir, Maître veneur, Maître d'armes, Templier, Sainte, Banneret), compétences auto-lancées"
 }
