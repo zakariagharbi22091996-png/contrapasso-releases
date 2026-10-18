@@ -1,11 +1,11 @@
 {
-  "build": 1792281606,
+  "build": 1792282686,
   "version": "0.3.0",
-  "file": "game-1792281606.json.gz",
-  "sha256": "d036f1c881d8a34c5355e057dc7f635ab5f520e38d58809b5674cd53dbbbac89",
-  "size": 1199778,
+  "file": "game-1792282686.json.gz",
+  "sha256": "af930ed2ebc66e4041195c3a540efd26580c0a748f6156f54b545b39df78206d",
+  "size": 1208290,
   "minShell": 1,
-  "date": "2026-10-18T00:00:06.000Z",
-  "commit": "f3e6963",
-  "notes": "Taille de la carte au choix en solo (Partie libre : de Normale 64×64 à Gigantesque 128×128) ; grandes cartes fluides en solo et en multijoueur (plus de ralentissements) ; raccourcis clavier personnalisables (Options → Raccourcis clavier : salles, pièges, pouvoirs, sorts des Dons dont le Pacte, murmures…) ; touche 4 : améliorer le piège survolé ; pièges posés en rectangle (glisser) ou en ligne (Maj+glisser)."
+  "date": "2026-10-18T00:18:06.000Z",
+  "commit": "78d4b91",
+  "notes": "Nouveau bâtiment : la Chapelle noire (tes créatures blessées y régénèrent). Nouveaux démons : la Sœur de sang (Chapelle 3×3 : soigne tes démons en plein combat, de loin) et le Béhémoth, unité d'élite (Charnier 6×6 + Arène 5×5 : énorme, écrase, dévore les héros affaiblis, fait enrager tes démons). Côté héros : le Clerc (dès la vague 4), qui soigne et protège la vague."
 }
