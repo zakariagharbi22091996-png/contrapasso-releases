@@ -1,11 +1,11 @@
 {
-  "build": 1792284304,
+  "build": 1792285001,
   "version": "0.3.0",
-  "file": "game-1792284304.json.gz",
-  "sha256": "9ad048acd5df37aa3a10e6f680122deb6017652abc90694190fc10cbdb493c04",
-  "size": 1223552,
+  "file": "game-1792285001.json.gz",
+  "sha256": "89a92ea8c5e1ca47ccd04414ee01843e5177183def0757b4a821019cd441c03e",
+  "size": 1224734,
   "minShell": 1,
-  "date": "2026-10-18T00:45:04.000Z",
-  "commit": "dbaced0",
-  "notes": "Murs à bâtir : onglet Pièges → Mur (20 or la case), sur tes dalles hors salle, pour tracer des couloirs et y poser des portes (clic, glisser pour un rectangle, Maj pour une ligne ; creuse-le pour le défaire). Salles à 3 niveaux : clique une salle → Améliorer (×1,25 puis ×1,5 : or du Trésor, lits de la Fosse, crochets du Charnier, Souffrance des salles de torture, soins de la Chapelle, Forge, Ossuaire)."
+  "date": "2026-10-18T00:56:41.000Z",
+  "commit": "6d45756",
+  "notes": "Multijoueur jusqu'à 8 joueurs (salon → Réglages → Joueurs max) : carte à 8 foyers équitables (320 à 384 cases selon la taille), 8 couleurs ; la Diplomatie montre les actions du rival choisi (clic sur sa ligne). En connexion directe (IP/Radmin) tout de suite ; par Steam au-delà de 4, il faut le prochain installeur."
 }
