@@ -1,11 +1,11 @@
 {
-  "build": 1792283338,
+  "build": 1792283936,
   "version": "0.3.0",
-  "file": "game-1792283338.json.gz",
-  "sha256": "0368e80243082bfddd97039f1a38fe16173ab8b9363a63212fd354141e763a66",
-  "size": 1213125,
+  "file": "game-1792283936.json.gz",
+  "sha256": "8a63187829cb0d82bf5c77e9351e725b0b991cc04f3e9570793dc8ce7fbb6026",
+  "size": 1221614,
   "minShell": 1,
-  "date": "2026-10-18T00:28:58.000Z",
-  "commit": "1d9535a",
-  "notes": "Vrais sprites pour les nouvelles unités : la Sœur de sang (nonne démoniaque au voile écarlate, cornes, encensoir fumant), le Clerc (aube blanche, chasuble à croix rouge, masse d'armes) et le Béhémoth (montagne de chair cousue de fer, ventre-fournaise, cornes de bélier)."
+  "date": "2026-10-18T00:38:56.000Z",
+  "commit": "113fabe",
+  "notes": "Fin de partie : nouvelle salle Forge infernale (tes pièges frappent plus fort, tes portes sont plus solides), nouvelle salle Ossuaire (des gardiens d'os se relèvent toutes les 45 s) et nouveau démon, la Liche (Ossuaire 5×5 + salle de torture 16 : trait de givre, nova qui gèle les héros, relève des squelettes). Vrais portraits et mains en vue subjective pour la Sœur de sang, le Béhémoth et la Liche ; portrait du Clerc."
 }
