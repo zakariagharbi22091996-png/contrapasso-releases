@@ -1,11 +1,11 @@
 {
-  "build": 1792360737,
+  "build": 1792364507,
   "version": "0.3.0",
-  "file": "game-1792360737.json.gz",
-  "sha256": "53f3fd3b064dd7723918402d3cae825c3b581520b6e9676b75601c0b72fc8c4d",
-  "size": 1251496,
+  "file": "game-1792364507.json.gz",
+  "sha256": "4397cbd804f1a640d4a2499d18a479c7bbdf6eb33b7e90dc48ebcb07cfa7e1e1",
+  "size": 1301465,
   "minShell": 1,
-  "date": "2026-10-18T21:58:57.000Z",
-  "commit": "90592ba",
-  "notes": "Écran de fin : or gagné sur toute la partie — - Nouvelle statistique « or gagné » (chaque pas : hausse du stock + dépenses), toutes\n  sources comprises.\n- Écran de fin : « Or gagné (total) » et « Or dépensé » ; tableau des scores\n  multijoueur : colonne « Or total » (au lieu de l'or en caisse).\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_"
+  "date": "2026-10-18T23:01:47.000Z",
+  "commit": "f5d1748",
+  "notes": "Ajoute les champions, leur équipement et leurs sprites dédiés"
 }
