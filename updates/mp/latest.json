@@ -1,11 +1,11 @@
 {
-  "build": 1792285541,
+  "build": 1792286928,
   "version": "0.3.0",
-  "file": "game-1792285541.json.gz",
-  "sha256": "634d37cf1c9db610b1aa69a66e42e4c7b24dbea9a9401131ee0c66ab38e7a896",
-  "size": 1228289,
+  "file": "game-1792286928.json.gz",
+  "sha256": "fa4a54162b1afc9a10ebc72effab26284dcef1074ae7126c8a7d4f8da75adb4c",
+  "size": 1240005,
   "minShell": 1,
-  "date": "2026-10-18T01:05:41.000Z",
-  "commit": "c4faffd",
-  "notes": "Marché des Damnés (multijoueur, bouton « Marché ») : achète et vends Souffrance et âmes de chaque péché contre de l'or, à des cours communs qui montent et baissent avec les échanges de tous. Les alliances rapportent : ta taxe baisse de 7 points par allié (0 % dès 3 alliés) et chaque minute, tes comptoirs d'alliance te versent 6 % de l'or gagné par chacun de tes alliés."
+  "date": "2026-10-18T01:28:48.000Z",
+  "commit": "857ba48",
+  "notes": "Caravanes marchandes : bâtis un Comptoir infernal (multijoueur), forme des caravanes d'or ou de Souffrance et trace leur route jusqu'au Comptoir d'un allié — plus la route est longue, plus chaque voyage rapporte ; l'allié touche une commission. Sapeurs plus justes : leur puits s'ouvre hors de ta base (annoncé 20 s avant) et ils creusent jusqu'à toi."
 }
