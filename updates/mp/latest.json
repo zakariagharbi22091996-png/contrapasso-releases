@@ -1,11 +1,11 @@
 {
-  "build": 1792366152,
+  "build": 1792366400,
   "version": "0.3.0",
-  "file": "game-1792366152.json.gz",
-  "sha256": "b25c9ae3386047c59203c0c2ae252723420ccf65667231f556a778f55c8fce3f",
-  "size": 1309629,
+  "file": "game-1792366400.json.gz",
+  "sha256": "b68669a4ddd5afd1505d6e3803ca685108a6429e986e97c9b7b9e296b7eb0046",
+  "size": 1309820,
   "minShell": 1,
-  "date": "2026-10-18T23:29:12.000Z",
-  "commit": "2a23c1e",
-  "notes": "Fiche de sélection agrandie avec portrait, rôle, stats et deux voies passives personnalisées disponibles pour les Commandants principaux et secondaires."
+  "date": "2026-10-18T23:33:20.000Z",
+  "commit": "a6bfee5",
+  "notes": "Sprites réels et choix de commandant clarifié."
 }
