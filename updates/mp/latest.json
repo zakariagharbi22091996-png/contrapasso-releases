@@ -1,11 +1,11 @@
 {
-  "build": 1792366596,
+  "build": 1792366758,
   "version": "0.3.0",
-  "file": "game-1792366596.json.gz",
-  "sha256": "4e689f78577fba0b36880c323dd477892fbc20d6560ce8bea4be47dfe3d07f5b",
-  "size": 1256248,
+  "file": "game-1792366758.json.gz",
+  "sha256": "dc8d06a392d007682424961bc897e72eac95e97f554770acabc898538dcc0a8a",
+  "size": 1251496,
   "minShell": 1,
-  "date": "2026-10-18T23:36:36.000Z",
-  "commit": "a532ce2",
-  "notes": "Mises à jour DeepSeek : portes horizontales, destruction des nids, tours de flèches et canon, veine de sang-rubis épuisable, caravanes par tuiles de Comptoir avec fuite, Moulin des âmes (recyclage), portail par nom de joueur + clic gauche + un seul par Enfer, options de l'exe déclarées à Chromium"
+  "date": "2026-10-18T23:39:18.000Z",
+  "commit": "90592ba",
+  "notes": "Écran de fin : or gagné sur toute la partie — - Nouvelle statistique « or gagné » (chaque pas : hausse du stock + dépenses), toutes\n  sources comprises.\n- Écran de fin : « Or gagné (total) » et « Or dépensé » ; tableau des scores\n  multijoueur : colonne « Or total » (au lieu de l'or en caisse).\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_"
 }
