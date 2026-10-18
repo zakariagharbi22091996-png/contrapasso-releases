@@ -1,11 +1,11 @@
 {
-  "build": 1792286928,
+  "build": 1792288332,
   "version": "0.3.0",
-  "file": "game-1792286928.json.gz",
-  "sha256": "fa4a54162b1afc9a10ebc72effab26284dcef1074ae7126c8a7d4f8da75adb4c",
-  "size": 1240005,
+  "file": "game-1792288332.json.gz",
+  "sha256": "2c05e57f29b0ef73bf4e6ce0fc0a2b0a2aeef271e92488de45906aaa6e3e1e4a",
+  "size": 1242076,
   "minShell": 1,
-  "date": "2026-10-18T01:28:48.000Z",
-  "commit": "857ba48",
-  "notes": "Caravanes marchandes : bâtis un Comptoir infernal (multijoueur), forme des caravanes d'or ou de Souffrance et trace leur route jusqu'au Comptoir d'un allié — plus la route est longue, plus chaque voyage rapporte ; l'allié touche une commission. Sapeurs plus justes : leur puits s'ouvre hors de ta base (annoncé 20 s avant) et ils creusent jusqu'à toi."
+  "date": "2026-10-18T01:52:12.000Z",
+  "commit": "d800943",
+  "notes": "Revendiquer le sol en priorité : avec l'outil Creuser (X), glisse sur le sol non revendiqué, ou clic droit dessus sans outil (le chemin jusqu'à ton territoire est marqué aussi) ; diablotins sélectionnés + clic droit : ils le revendiquent. Correctif : améliorer une salle en multijoueur la faisait revenir au niveau 1 en gardant l'or."
 }
