@@ -1,11 +1,11 @@
 {
-  "build": 1792283936,
+  "build": 1792284304,
   "version": "0.3.0",
-  "file": "game-1792283936.json.gz",
-  "sha256": "8a63187829cb0d82bf5c77e9351e725b0b991cc04f3e9570793dc8ce7fbb6026",
-  "size": 1221614,
+  "file": "game-1792284304.json.gz",
+  "sha256": "9ad048acd5df37aa3a10e6f680122deb6017652abc90694190fc10cbdb493c04",
+  "size": 1223552,
   "minShell": 1,
-  "date": "2026-10-18T00:38:56.000Z",
-  "commit": "113fabe",
-  "notes": "Fin de partie : nouvelle salle Forge infernale (tes pièges frappent plus fort, tes portes sont plus solides), nouvelle salle Ossuaire (des gardiens d'os se relèvent toutes les 45 s) et nouveau démon, la Liche (Ossuaire 5×5 + salle de torture 16 : trait de givre, nova qui gèle les héros, relève des squelettes). Vrais portraits et mains en vue subjective pour la Sœur de sang, le Béhémoth et la Liche ; portrait du Clerc."
+  "date": "2026-10-18T00:45:04.000Z",
+  "commit": "dbaced0",
+  "notes": "Murs à bâtir : onglet Pièges → Mur (20 or la case), sur tes dalles hors salle, pour tracer des couloirs et y poser des portes (clic, glisser pour un rectangle, Maj pour une ligne ; creuse-le pour le défaire). Salles à 3 niveaux : clique une salle → Améliorer (×1,25 puis ×1,5 : or du Trésor, lits de la Fosse, crochets du Charnier, Souffrance des salles de torture, soins de la Chapelle, Forge, Ossuaire)."
 }
