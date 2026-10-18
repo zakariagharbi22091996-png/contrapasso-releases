@@ -1,11 +1,11 @@
 {
-  "build": 1792289367,
+  "build": 1792289984,
   "version": "0.3.0",
-  "file": "game-1792289367.json.gz",
-  "sha256": "53fca6b63fabcd2031b5348b8e89d8db13df55b9d7e46dc2f0528f97e2ad34ac",
-  "size": 1242861,
+  "file": "game-1792289984.json.gz",
+  "sha256": "f76f6337e84996f26c11deb2f83ba3b669f351e437f02f0f0a3bb7cf811cfcd3",
+  "size": 1243165,
   "minShell": 1,
-  "date": "2026-10-18T02:09:27.000Z",
-  "commit": "bc81500",
-  "notes": "Caravanes : elles font l'aller-retour en continu, sans fin (seul « Rappeler » les arrête), vont plus vite, et le rapport estimé par minute s'affiche (tracé, fiche, Comptoir)."
+  "date": "2026-10-18T02:19:44.000Z",
+  "commit": "90592ba",
+  "notes": "Écran de fin : l'or gagné sur toute la partie (et l'or dépensé) ; tableau des scores : colonne « Or total »."
 }
