@@ -1,11 +1,11 @@
 {
-  "build": 1792365314,
+  "build": 1792365718,
   "version": "0.3.0",
-  "file": "game-1792365314.json.gz",
-  "sha256": "463ecdcccbf42e9f29f0ba9bad5f1d1bdd95b0a1d3f92337e0b8a6029afdb186",
-  "size": 1301464,
+  "file": "game-1792365718.json.gz",
+  "sha256": "10e5ad9a7911e31c50399f5f776dda74f6e7a768dde9b747c3210f6a52527fa1",
+  "size": 1309167,
   "minShell": 1,
-  "date": "2026-10-18T23:15:14.000Z",
-  "commit": "f5d1748",
-  "notes": "Ajoute les champions, leur équipement et leurs sprites dédiés"
+  "date": "2026-10-18T23:21:58.000Z",
+  "commit": "9ce7ede",
+  "notes": "15 nouveaux Commandants distincts des démons ordinaires ; sélection principale au lancement, sprites dédiés et recrutement à coût variable dans la Salle des champions."
 }
