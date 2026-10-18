@@ -1,11 +1,11 @@
 {
-  "build": 1792289984,
+  "build": 1792355634,
   "version": "0.3.0",
-  "file": "game-1792289984.json.gz",
-  "sha256": "f76f6337e84996f26c11deb2f83ba3b669f351e437f02f0f0a3bb7cf811cfcd3",
-  "size": 1243165,
+  "file": "game-1792355634.json.gz",
+  "sha256": "1459551f4ace3999ee75326464d5399e1bfa9c583e97915ac46f5edc41f36861",
+  "size": 1256225,
   "minShell": 1,
-  "date": "2026-10-18T02:19:44.000Z",
-  "commit": "90592ba",
-  "notes": "Écran de fin : l'or gagné sur toute la partie (et l'or dépensé) ; tableau des scores : colonne « Or total »."
+  "date": "2026-10-18T20:33:54.000Z",
+  "commit": "e18c145",
+  "notes": "DeepSeek : portes horizontales, destruction nids/ossuaires, tours (flèches/canon), sang-rubis épuisable, caravanes par tuiles + fuite, Moulin des âmes, portail par nom + clic gauche + 1 par joueur"
 }
