@@ -1,11 +1,11 @@
 {
-  "build": 1792365945,
+  "build": 1792366152,
   "version": "0.3.0",
-  "file": "game-1792365945.json.gz",
-  "sha256": "a50af378736eff2f52dc32b295763f684f98501abf4ac839ec71b5fe6e64a286",
-  "size": 1309164,
+  "file": "game-1792366152.json.gz",
+  "sha256": "b25c9ae3386047c59203c0c2ae252723420ccf65667231f556a778f55c8fce3f",
+  "size": 1309629,
   "minShell": 1,
-  "date": "2026-10-18T23:25:45.000Z",
-  "commit": "77152f8",
-  "notes": "15 nouveaux Commandants distincts des démons ordinaires ; le Ravageur féral a un nom cohérent avec son sprite."
+  "date": "2026-10-18T23:29:12.000Z",
+  "commit": "2a23c1e",
+  "notes": "Fiche de sélection agrandie avec portrait, rôle, stats et deux voies passives personnalisées disponibles pour les Commandants principaux et secondaires."
 }
