@@ -1,11 +1,11 @@
 {
-  "build": 1792360231,
+  "build": 1792360737,
   "version": "0.3.0",
-  "file": "game-1792360231.json.gz",
-  "sha256": "7be204a3b3b67b303182b2942a400709873fcdd48ed97e1e6caa02e3971f8d2e",
-  "size": 1251480,
+  "file": "game-1792360737.json.gz",
+  "sha256": "53f3fd3b064dd7723918402d3cae825c3b581520b6e9676b75601c0b72fc8c4d",
+  "size": 1251496,
   "minShell": 1,
-  "date": "2026-10-18T21:50:31.000Z",
+  "date": "2026-10-18T21:58:57.000Z",
   "commit": "90592ba",
-  "notes": "Retour Claude avant DeepSeek — paquet de restauration"
+  "notes": "Écran de fin : or gagné sur toute la partie — - Nouvelle statistique « or gagné » (chaque pas : hausse du stock + dépenses), toutes\n  sources comprises.\n- Écran de fin : « Or gagné (total) » et « Or dépensé » ; tableau des scores\n  multijoueur : colonne « Or total » (au lieu de l'or en caisse).\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_"
 }
