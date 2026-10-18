@@ -1,11 +1,11 @@
 {
-  "build": 1792282686,
+  "build": 1792282863,
   "version": "0.3.0",
-  "file": "game-1792282686.json.gz",
-  "sha256": "af930ed2ebc66e4041195c3a540efd26580c0a748f6156f54b545b39df78206d",
-  "size": 1208290,
+  "file": "game-1792282863.json.gz",
+  "sha256": "80b1fa326e7ba430eb36d0a387f0c121115fdf57512591ea4fd2074af5d7baf5",
+  "size": 1209165,
   "minShell": 1,
-  "date": "2026-10-18T00:18:06.000Z",
-  "commit": "78d4b91",
-  "notes": "Nouveau bâtiment : la Chapelle noire (tes créatures blessées y régénèrent). Nouveaux démons : la Sœur de sang (Chapelle 3×3 : soigne tes démons en plein combat, de loin) et le Béhémoth, unité d'élite (Charnier 6×6 + Arène 5×5 : énorme, écrase, dévore les héros affaiblis, fait enrager tes démons). Côté héros : le Clerc (dès la vague 4), qui soigne et protège la vague."
+  "date": "2026-10-18T00:21:03.000Z",
+  "commit": "9018ce2",
+  "notes": "Annonce de vague : un grand bandeau au centre de l'écran 30 secondes avant chaque vague (compte à rebours en direct), et un rappel à 10 secondes."
 }
