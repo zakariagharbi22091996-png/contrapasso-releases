@@ -1,11 +1,11 @@
 {
-  "build": 1792359894,
+  "build": 1792360083,
   "version": "0.3.0",
-  "file": "game-1792359894.json.gz",
-  "sha256": "beac620f6ac078b66062614b56404971f80b882303f8d60a4e2551e93e4ade01",
-  "size": 1251481,
+  "file": "game-1792360083.json.gz",
+  "sha256": "4452138be36eacf44973383aef09a9cc1f5fc14bef3597c1d11132def7c912ed",
+  "size": 1274902,
   "minShell": 1,
-  "date": "2026-10-18T21:44:54.000Z",
-  "commit": "90592ba",
-  "notes": "Retour à la dernière version Claude avant DeepSeek (90592ba)."
+  "date": "2026-10-18T21:48:03.000Z",
+  "commit": "aa265de",
+  "notes": "test"
 }
