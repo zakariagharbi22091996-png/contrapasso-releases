@@ -1,11 +1,11 @@
 {
-  "build": 1792282863,
+  "build": 1792283338,
   "version": "0.3.0",
-  "file": "game-1792282863.json.gz",
-  "sha256": "80b1fa326e7ba430eb36d0a387f0c121115fdf57512591ea4fd2074af5d7baf5",
-  "size": 1209165,
+  "file": "game-1792283338.json.gz",
+  "sha256": "0368e80243082bfddd97039f1a38fe16173ab8b9363a63212fd354141e763a66",
+  "size": 1213125,
   "minShell": 1,
-  "date": "2026-10-18T00:21:03.000Z",
-  "commit": "9018ce2",
-  "notes": "Annonce de vague : un grand bandeau au centre de l'écran 30 secondes avant chaque vague (compte à rebours en direct), et un rappel à 10 secondes."
+  "date": "2026-10-18T00:28:58.000Z",
+  "commit": "1d9535a",
+  "notes": "Vrais sprites pour les nouvelles unités : la Sœur de sang (nonne démoniaque au voile écarlate, cornes, encensoir fumant), le Clerc (aube blanche, chasuble à croix rouge, masse d'armes) et le Béhémoth (montagne de chair cousue de fer, ventre-fournaise, cornes de bélier)."
 }
