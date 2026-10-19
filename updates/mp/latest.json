@@ -1,11 +1,11 @@
 {
-  "build": 1792366758,
+  "build": 1792445029,
   "version": "0.3.0",
-  "file": "game-1792366758.json.gz",
-  "sha256": "dc8d06a392d007682424961bc897e72eac95e97f554770acabc898538dcc0a8a",
-  "size": 1251496,
+  "file": "game-1792445029.json.gz",
+  "sha256": "ddb9f5f773b1d6a0be9a6f78d9180ee6fd3047be748e495655f7b6feb0d61dd2",
+  "size": 1256377,
   "minShell": 1,
-  "date": "2026-10-18T23:39:18.000Z",
-  "commit": "90592ba",
-  "notes": "Écran de fin : or gagné sur toute la partie — - Nouvelle statistique « or gagné » (chaque pas : hausse du stock + dépenses), toutes\n  sources comprises.\n- Écran de fin : « Or gagné (total) » et « Or dépensé » ; tableau des scores\n  multijoueur : colonne « Or total » (au lieu de l'or en caisse).\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_"
+  "date": "2026-10-19T21:23:49.000Z",
+  "commit": "77e62d5",
+  "notes": "Quatre sceaux d'archidémon par carte (× taille) : 4 archidémons en carte normale, 8 à 16 sur les grandes cartes"
 }
