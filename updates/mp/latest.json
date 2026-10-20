@@ -1,11 +1,11 @@
 {
-  "build": 1792517195,
-  "version": "0.4.0",
-  "file": "game-1792517195.json.gz",
-  "sha256": "4eec11e524389181dcc689ce7cc4fbf384854e6e6d17e06d8ad98380627ee71d",
-  "size": 1461855,
+  "build": 1792518379,
+  "version": "0.4.1",
+  "file": "game-1792518379.json.gz",
+  "sha256": "e49918d344390185d4161f9ec1c2386d343d915f738d790f1e7645d75e7aef40",
+  "size": 1462505,
   "minShell": 1,
-  "date": "2026-10-20T17:26:35.000Z",
-  "commit": "641e802",
-  "notes": "Version 0.4.0 — RTS + Dungeon Keeper + Mighty Quest : bâtiments à empreinte fixe, production des démons dans les bâtiments, améliorations, Commandants et 25 champions avec objets, contrôle RTS complet (Maj, formations, ralliement, barres de PV, groupes, curseurs), Main et gifles supprimées, vagues en formation et difficultés, nids destructibles, guerre multi en contrôle direct, Diplomatie et écran de résultats refaits, nouvelles musiques, console de test (²), tutoriel refait. Notes complètes : docs/DEEPSEEK_UPDATES.md."
+  "date": "2026-10-20T17:46:19.000Z",
+  "commit": "c55602e",
+  "notes": "Version 0.4.1 — correctif : ZQSD/flèches toujours pour la caméra (Attaquer = G, Stop = C, modifiables dans Options → Raccourcis) ; Diplomatie : « Montrer ma carte » dès la trêve/paix, partage automatique en alliance ; Moulin des âmes retiré de la palette."
 }
