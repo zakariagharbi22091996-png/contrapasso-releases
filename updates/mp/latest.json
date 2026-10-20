@@ -1,11 +1,11 @@
 {
-  "build": 1792454031,
-  "version": "0.3.0",
-  "file": "game-1792454031.json.gz",
-  "sha256": "9103c7447ea799cbaa7df5ace152d5d3836d37194440c5d1fc3199ee59f934ba",
-  "size": 1251495,
+  "build": 1792517195,
+  "version": "0.4.0",
+  "file": "game-1792517195.json.gz",
+  "sha256": "4eec11e524389181dcc689ce7cc4fbf384854e6e6d17e06d8ad98380627ee71d",
+  "size": 1461855,
   "minShell": 1,
-  "date": "2026-10-19T23:53:51.000Z",
-  "commit": "90592ba",
-  "notes": "Écran de fin : or gagné sur toute la partie — - Nouvelle statistique « or gagné » (chaque pas : hausse du stock + dépenses), toutes\n  sources comprises.\n- Écran de fin : « Or gagné (total) » et « Or dépensé » ; tableau des scores\n  multijoueur : colonne « Or total » (au lieu de l'or en caisse).\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_"
+  "date": "2026-10-20T17:26:35.000Z",
+  "commit": "641e802",
+  "notes": "Version 0.4.0 — RTS + Dungeon Keeper + Mighty Quest : bâtiments à empreinte fixe, production des démons dans les bâtiments, améliorations, Commandants et 25 champions avec objets, contrôle RTS complet (Maj, formations, ralliement, barres de PV, groupes, curseurs), Main et gifles supprimées, vagues en formation et difficultés, nids destructibles, guerre multi en contrôle direct, Diplomatie et écran de résultats refaits, nouvelles musiques, console de test (²), tutoriel refait. Notes complètes : docs/DEEPSEEK_UPDATES.md."
 }
