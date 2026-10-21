@@ -1,11 +1,11 @@
 {
-  "build": 1792599030,
-  "version": "0.6.4",
-  "file": "game-1792599030.json.gz",
-  "sha256": "9e4acd0b24965cb03c6302c7d50b01609c5332c598c1aca988522bd59cdf4f16",
-  "size": 1506650,
+  "build": 1792603757,
+  "version": "0.6.7",
+  "file": "game-1792603757.json.gz",
+  "sha256": "5cab23c3f1a11c204beab69f8a26024d54156f1647e41744851b930f8f5c55d6",
+  "size": 1503851,
   "minShell": 1,
-  "date": "2026-10-21T16:10:30.000Z",
-  "commit": "861b77a",
-  "notes": "Version 0.6.4 — - Conseils : Sang/Os qui s'entassent (offrande), champion prêt à s'éveiller,\n  meilleures pièces en réserve, réserve encombrée ; un conseil trop long pour\n  la place est abrégé au lieu d'être tu.\n- Bilan Économie : colonnes appariées, tout tient en 720p.\n- Pièges renforcés : message accordé.\n- Sauvegarde : la file de résurrections du Linceul de Lazare est gardée.\n\nCo-Authored-By: C"
+  "date": "2026-10-21T17:29:17.000Z",
+  "commit": "a0ff0e9",
+  "notes": "Version 0.6.7 — Codex : nouvel onglet « Arsenal » (raretés, affixes d’arme, panoplies découvertes). Bilan de vague : quand une vague est repoussée, le panneau des rumeurs s'ouvre avec son bilan (héros abattus et en fuite, démons perdus, objets tombés, or des bourses, Souffrance récoltée, PV perdus par le Trône, ton meilleur démon — clic : le montrer) ; l'écran de fin les reprend tous dans un nouvel onglet « Vagues ». « Démons perdus » ne compte plus chaque mort deux fois. Une panoplie réunie est saluée d'un message et d'un éclat doré ; l'adversaire IA vend son équipement inutile. Nouveau conseil quand tes salles de torture manquent de Bourreaux. Interface en 1280 × 720 : prix et durées de production lisibles, onglet Démons allégé, icônes des tours de flèches et tours-canons."
 }
