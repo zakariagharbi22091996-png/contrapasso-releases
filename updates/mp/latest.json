@@ -1,11 +1,11 @@
 {
-  "build": 1792573869,
-  "version": "0.5.0",
-  "file": "game-1792573869.json.gz",
-  "sha256": "218d9ee51aacf0c1100c76257d3e8a67b17c525cc7542dfa3ae8150a11ae3f98",
-  "size": 1475096,
+  "build": 1792579162,
+  "version": "0.5.1",
+  "file": "game-1792579162.json.gz",
+  "sha256": "57a4643f679d90b8a05fc48d7d707b1bf131a3334276bdb044cae251b002def0",
+  "size": 1476683,
   "minShell": 1,
-  "date": "2026-10-21T09:11:09.000Z",
-  "commit": "df6c11e",
-  "notes": "Version 0.5.0 — Os, Sang, Soufre, Éclats : les morts laissent des dépouilles que tes diablotins portent à l'Équarrissoir (Os, Sang) ; la Soufrière extrait le Soufre ; les Éclats tombent des âmes brisées, des élites et de l'Élu. Démons avancés, tours, pièges muraux de feu et champions en coûtent (les démons du début restent à l'or). Broyeur d'âmes, Fumerolles toxiques. Multijoueur : reprendre EN LIGNE une partie sauvegardée (Multijoueur → Reprendre, même pseudo) ; Marché : lots de ressources. Campagne : ton Commandant te suit de Cercle en Cercle."
+  "date": "2026-10-21T10:39:22.000Z",
+  "commit": "81101ae",
+  "notes": "Version 0.5.1 — Diablotins : une zone que tu marques à revendiquer passe enfin avant le reste, et le diablotin sur place enchaîne les cases (couloir de 14 cases : 56 s → 30 s). Adversaire IA : il dépense l'or qui dormait (Fosses, tours flèches et canons sur le chemin des héros). Le Puits plein n'accepte plus d'âme illustre ni de débordement. Correctif : un dilemme en attente pendant une sauvegarde (ou une partie multijoueur reprise ou rejointe) fonctionne de nouveau."
 }
