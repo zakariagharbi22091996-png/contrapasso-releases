@@ -1,11 +1,11 @@
 {
-  "build": 1792579162,
-  "version": "0.5.1",
-  "file": "game-1792579162.json.gz",
-  "sha256": "57a4643f679d90b8a05fc48d7d707b1bf131a3334276bdb044cae251b002def0",
-  "size": 1476683,
+  "build": 1792585859,
+  "version": "0.6.0",
+  "file": "game-1792585859.json.gz",
+  "sha256": "c83ece5f0c89d55d594815b0527efd223fb320ebdf7369b39499f99274ffd5c2",
+  "size": 1488911,
   "minShell": 1,
-  "date": "2026-10-21T10:39:22.000Z",
-  "commit": "81101ae",
-  "notes": "Version 0.5.1 — Diablotins : une zone que tu marques à revendiquer passe enfin avant le reste, et le diablotin sur place enchaîne les cases (couloir de 14 cases : 56 s → 30 s). Adversaire IA : il dépense l'or qui dormait (Fosses, tours flèches et canons sur le chemin des héros). Le Puits plein n'accepte plus d'âme illustre ni de débordement. Correctif : un dilemme en attente pendant une sauvegarde (ou une partie multijoueur reprise ou rejointe) fonctionne de nouveau."
+  "date": "2026-10-21T12:30:59.000Z",
+  "commit": "e99880a",
+  "notes": "Version 0.6.0 — Le butin tombe au sol : chaque objet gagné (héros abattu, nid ou ossuaire détruit) tombe là où il a été gagné, et tes diablotins le rapportent à la Salle des champions (ou au Trône). Un héros qui passe dessus s'en empare, les pillards vont même le chercher : abats-les avant la sortie (alerte cliquable, objet visible au-dessus du voleur, points sur la minicarte). La Salle des champions s'habille (braseros rouges, râteliers, mannequin) et expose tes quatre plus beaux objets sur des présentoirs — gare aux Voleuses qui viennent piller la vitrine. Fiche d'un champion : « Équiper le meilleur ». Adversaire IA : il équipe son butin, apprend ses passifs, creuse de la place quand il en manque, bâtit sa Salle des champions et recrute ses cinq champions, sans oublier la paie. Campagne : le butin resté au sol à la victoire te suit."
 }
