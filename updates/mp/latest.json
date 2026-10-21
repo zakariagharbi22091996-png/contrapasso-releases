@@ -1,11 +1,11 @@
 {
-  "build": 1792585892,
-  "version": "0.6.1",
-  "file": "game-1792585892.json.gz",
-  "sha256": "b1853c267f93fc830283f7d57c1c17b345ae0e0db549e46dd380220cf83b93dd",
-  "size": 1490667,
+  "build": 1792592172,
+  "version": "0.6.2",
+  "file": "game-1792592172.json.gz",
+  "sha256": "8344450f465b3af2a5f920be7234fd91d91ba67a3a35f12937185d345c4a9cc0",
+  "size": 1492912,
   "minShell": 1,
-  "date": "2026-10-21T12:31:32.000Z",
-  "commit": "2bf837c",
-  "notes": "Version 0.6.1 — Os, Sang, Soufre et Éclats servent jusqu'au bout : tes sorts brûlent d'office leur ressource quand ta réserve le permet et frappent plus fort (Chaînes de l'Abîme : Sang, entraves plus longues ; Mur d'os : Os, il tient deux fois plus ; Lever les morts : Os, deux squelettes de plus ; Pluie et Baume de soufre : Soufre, brûlure ×1,6 et soin de 70 %). Fiche d'un champion : « Éveil » le monte d'un niveau contre des Éclats d'âme. L'adversaire IA en profite aussi."
+  "date": "2026-10-21T14:16:12.000Z",
+  "commit": "a3e8d70",
+  "notes": "Version 0.6.2 — L'adversaire IA lance enfin ses sorts : Chaînes de l'Abîme et Pluie de soufre sur les amas de héros, Baume sur ses mêlées, Lever les morts quand son Trône est assailli, renforcés par ses réserves. Fiche du Trône : offrandes (100 Sang → 120 Souffrance, 100 Os → 80). Le renfort du Baume de soufre se paie désormais en Sang. Bilan de fin de partie : butin rangé, volé et perdu, sorts renforcés, éveils. Sauvegarde exacte : une partie rechargée reprend au même instant, sans dériver."
 }
