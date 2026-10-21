@@ -1,11 +1,11 @@
 {
-  "build": 1792585859,
-  "version": "0.6.0",
-  "file": "game-1792585859.json.gz",
-  "sha256": "c83ece5f0c89d55d594815b0527efd223fb320ebdf7369b39499f99274ffd5c2",
-  "size": 1488911,
+  "build": 1792585892,
+  "version": "0.6.1",
+  "file": "game-1792585892.json.gz",
+  "sha256": "b1853c267f93fc830283f7d57c1c17b345ae0e0db549e46dd380220cf83b93dd",
+  "size": 1490667,
   "minShell": 1,
-  "date": "2026-10-21T12:30:59.000Z",
-  "commit": "e99880a",
-  "notes": "Version 0.6.0 — Le butin tombe au sol : chaque objet gagné (héros abattu, nid ou ossuaire détruit) tombe là où il a été gagné, et tes diablotins le rapportent à la Salle des champions (ou au Trône). Un héros qui passe dessus s'en empare, les pillards vont même le chercher : abats-les avant la sortie (alerte cliquable, objet visible au-dessus du voleur, points sur la minicarte). La Salle des champions s'habille (braseros rouges, râteliers, mannequin) et expose tes quatre plus beaux objets sur des présentoirs — gare aux Voleuses qui viennent piller la vitrine. Fiche d'un champion : « Équiper le meilleur ». Adversaire IA : il équipe son butin, apprend ses passifs, creuse de la place quand il en manque, bâtit sa Salle des champions et recrute ses cinq champions, sans oublier la paie. Campagne : le butin resté au sol à la victoire te suit."
+  "date": "2026-10-21T12:31:32.000Z",
+  "commit": "2bf837c",
+  "notes": "Version 0.6.1 — Os, Sang, Soufre et Éclats servent jusqu'au bout : tes sorts brûlent d'office leur ressource quand ta réserve le permet et frappent plus fort (Chaînes de l'Abîme : Sang, entraves plus longues ; Mur d'os : Os, il tient deux fois plus ; Lever les morts : Os, deux squelettes de plus ; Pluie et Baume de soufre : Soufre, brûlure ×1,6 et soin de 70 %). Fiche d'un champion : « Éveil » le monte d'un niveau contre des Éclats d'âme. L'adversaire IA en profite aussi."
 }
