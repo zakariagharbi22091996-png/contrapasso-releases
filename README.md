@@ -13,3 +13,5 @@ Windows peut afficher « Windows a protégé votre ordinateur » (le jeu n'est p
 1. Lancez le jeu tous les deux, menu **Multijoueur**.
 2. L'un clique sur **Héberger** : un code de salon s'affiche (ex. `ENFER-7Q2K`).
 3. L'autre clique sur **Rejoindre** et tape le code. Aucun VPN ni réglage de box nécessaire.
+
+Pour **reprendre une partie à plusieurs** : n'importe qui la sauvegarde en partie (Échap → Sauvegarder). Plus tard, celui qui a la sauvegarde va dans **Multijoueur → Reprendre une partie sauvegardée** et ouvre le salon ; les autres cliquent sur **Rejoindre** avec **le même pseudo** et chacun retrouve son royaume (« Lancer sans eux » : l'IA tient les places vides).
