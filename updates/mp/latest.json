@@ -1,11 +1,11 @@
 {
-  "build": 1792607318,
-  "version": "0.6.8",
-  "file": "game-1792607318.json.gz",
-  "sha256": "779dc0587473d9e2d035c386bece659169b40e80e08a62d7d497e122c437b83d",
-  "size": 1507661,
+  "build": 1792620088,
+  "version": "0.6.9",
+  "file": "game-1792620088.json.gz",
+  "sha256": "c73f493568bc8e9c22da19000fdada881fb7927bc007f15e950e408f3f6c4124",
+  "size": 1517768,
   "minShell": 1,
-  "date": "2026-10-21T18:28:38.000Z",
-  "commit": "0efeb69",
-  "notes": "Version 0.6.8 — Les diablotins se produisent désormais au Trône, comme les autres démons dans leurs bâtiments : plus de pouvoir « Invoquer un diablotin ». Touche I, clic sur le compteur de diablotins en haut, fiche du Trône ou onglet Démons (Maj : ×5). 50 or pièce, +10 or par diablotin au-delà de 4, 10 s de production, 30 au plus ; ni lit ni salaire. Une âme brisée en offre toujours un gratuitement. Fiche du Trône : « Or des damnés » échange ta Souffrance contre de l'or (4 pour 1) quand l'or manque pour produire. L'adversaire IA produit ses diablotins de la même façon ; tout passe par les commandes synchronisées du multijoueur. Sauvegarde : une partie chargée reprend exactement les tâches en cours des diablotins. Multijoueur : survoler une roche marquée ne risque plus de désynchroniser la partie."
+  "date": "2026-10-21T22:01:28.000Z",
+  "commit": "497d130",
+  "notes": "0.6.9 : désynchronisations du multijoueur corrigées (Fortifier, Réparer, jauge des diablotins) et diagnostic lisible ; voix des créatures à la sélection ; haut-parleur pour couper la musique du menu ; onglet Démons lisible et défilement en tirant la page ; or par minute ; diablotins à prix fixe (50 or) ; « Rejoindre » vide le numéro du salon ; bâtiment requis nommé."
 }
