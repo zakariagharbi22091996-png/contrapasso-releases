@@ -1,11 +1,11 @@
 {
-  "build": 1792592172,
-  "version": "0.6.2",
-  "file": "game-1792592172.json.gz",
-  "sha256": "8344450f465b3af2a5f920be7234fd91d91ba67a3a35f12937185d345c4a9cc0",
-  "size": 1492912,
+  "build": 1792595374,
+  "version": "0.6.4",
+  "file": "game-1792595374.json.gz",
+  "sha256": "39e8002e8ff04cac6d81df4fbae279cf884b79f66cc4ee702d371192da3beb19",
+  "size": 1497500,
   "minShell": 1,
-  "date": "2026-10-21T14:16:12.000Z",
-  "commit": "a3e8d70",
-  "notes": "Version 0.6.2 — L'adversaire IA lance enfin ses sorts : Chaînes de l'Abîme et Pluie de soufre sur les amas de héros, Baume sur ses mêlées, Lever les morts quand son Trône est assailli, renforcés par ses réserves. Fiche du Trône : offrandes (100 Sang → 120 Souffrance, 100 Os → 80). Le renfort du Baume de soufre se paie désormais en Sang. Bilan de fin de partie : butin rangé, volé et perdu, sorts renforcés, éveils. Sauvegarde exacte : une partie rechargée reprend au même instant, sans dériver."
+  "date": "2026-10-21T15:09:34.000Z",
+  "commit": "861b77a",
+  "notes": "Version 0.6.4 — Panoplies : un objet épique ou légendaire trouvé peut être une pièce de l'une des trois panoplies (Bourreau, Abîme, Déchu) ; deux puis trois pièces portées ensemble donnent un bonus, et « Équiper le meilleur » ne les casse pas. Fiche d'équipement : « Vendre l'inutile » vend d'un coup les objets dépassés (jamais les épiques ni les légendaires). Nouveaux conseils : Sang ou Os qui s'entassent (offrande au Trône), champion prêt à s'éveiller, meilleures pièces en réserve, réserve encombrée ; un conseil trop long n'est plus caché en 1280 × 720, il est abrégé (texte entier au survol). Bilan Économie remis d'aplomb et lisible en entier. Messages des pièges renforcés accordés."
 }
