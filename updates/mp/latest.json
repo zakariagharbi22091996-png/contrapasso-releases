@@ -1,11 +1,11 @@
 {
-  "build": 1792595374,
+  "build": 1792599030,
   "version": "0.6.4",
-  "file": "game-1792595374.json.gz",
-  "sha256": "39e8002e8ff04cac6d81df4fbae279cf884b79f66cc4ee702d371192da3beb19",
-  "size": 1497500,
+  "file": "game-1792599030.json.gz",
+  "sha256": "9e4acd0b24965cb03c6302c7d50b01609c5332c598c1aca988522bd59cdf4f16",
+  "size": 1506650,
   "minShell": 1,
-  "date": "2026-10-21T15:09:34.000Z",
+  "date": "2026-10-21T16:10:30.000Z",
   "commit": "861b77a",
-  "notes": "Version 0.6.4 — Panoplies : un objet épique ou légendaire trouvé peut être une pièce de l'une des trois panoplies (Bourreau, Abîme, Déchu) ; deux puis trois pièces portées ensemble donnent un bonus, et « Équiper le meilleur » ne les casse pas. Fiche d'équipement : « Vendre l'inutile » vend d'un coup les objets dépassés (jamais les épiques ni les légendaires). Nouveaux conseils : Sang ou Os qui s'entassent (offrande au Trône), champion prêt à s'éveiller, meilleures pièces en réserve, réserve encombrée ; un conseil trop long n'est plus caché en 1280 × 720, il est abrégé (texte entier au survol). Bilan Économie remis d'aplomb et lisible en entier. Messages des pièges renforcés accordés."
+  "notes": "Version 0.6.4 — - Conseils : Sang/Os qui s'entassent (offrande), champion prêt à s'éveiller,\n  meilleures pièces en réserve, réserve encombrée ; un conseil trop long pour\n  la place est abrégé au lieu d'être tu.\n- Bilan Économie : colonnes appariées, tout tient en 720p.\n- Pièges renforcés : message accordé.\n- Sauvegarde : la file de résurrections du Linceul de Lazare est gardée.\n\nCo-Authored-By: C"
 }
