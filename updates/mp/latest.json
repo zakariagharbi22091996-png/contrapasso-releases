@@ -1,11 +1,11 @@
 {
-  "build": 1792695415,
-  "version": "0.7.2",
-  "file": "game-1792695415.json.gz",
-  "sha256": "bbd8c994a57951b72367917b814ed7ead974a93e86047a04c9b8a69fc9a5a0b1",
-  "size": 1621899,
+  "build": 1792703141,
+  "version": "0.7.3",
+  "file": "game-1792703141.json.gz",
+  "sha256": "0c1bcbe5edac68ed3e43633d865aba9bb9a3c56ec68efc0345cad0d6850ed10e",
+  "size": 1636774,
   "minShell": 1,
-  "date": "2026-10-22T18:56:55.000Z",
-  "commit": "e22cf2b",
-  "notes": "0.7.2 : ordres façon RTS. Un clic droit pour déplacer ou attaquer laisse un anneau au sol qui se resserre et s'efface (vert : aller, rouge : attaquer, bleu : patrouiller) au lieu des carrés pointillés. Plus de carré sous le curseur quand des créatures sont sélectionnées. Les trajets et drapeaux ne s'affichent qu'en maintenant Maj (option « Trajets des créatures toujours visibles » dans Options → Jeu)."
+  "date": "2026-10-22T21:05:41.000Z",
+  "commit": "cfdec2d",
+  "notes": "0.7.3 : en multijoueur, un joueur coupé (lag, box) se reconnecte tout seul et retrouve son royaume (jeu fermé : Rejoindre avec le même pseudo) ; « Abandonner la partie » reste définitif. Commandant choisi dans un menu déroulant qui montre les cinq. Icône « Tes champions » en haut à droite : un clic pour aller sur chacun (Fin ré-appuyée : champion suivant). Le bouton « oisifs » ne fait plus sauter la liste des démons (la Faucheuse redevient cliquable). Dézoom fluide (fini l'à-coup). Cinq nouvelles musiques (Larmes du Sous-sol, Comptine du Placard, Les Entrailles, Cœur Battant, Chant des Âmes Apaisées) ; le tambourin qui faisait « drrring » est retiré."
 }
