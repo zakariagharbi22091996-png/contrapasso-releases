@@ -1,11 +1,11 @@
 {
-  "build": 1792709487,
+  "build": 1792712392,
   "version": "0.7.4",
-  "file": "game-1792709487.json.gz",
-  "sha256": "4baf02a3b3725446c82a9c2c053d8e7e24cdac78f682bf934e18a6f6dc49374a",
-  "size": 1650343,
+  "file": "game-1792712392.json.gz",
+  "sha256": "0781af1eb5689222d83289e57663a4a39153331f3dc1206a6db0e3ca937da8b6",
+  "size": 1661185,
   "minShell": 1,
-  "date": "2026-10-22T22:51:27.000Z",
+  "date": "2026-10-22T23:39:52.000Z",
   "commit": "60adee4",
-  "notes": "0.7.4 — Dix musiques d'Halloween tournent par défaut en partie (La Nuit des Corbeaux, La Danse des Squelettes, Le Manoir Hanté, Minuit au Cimetière, Le Bal des Sorcières, Le Tango des Citrouilles, La Brume, La Pleine Lune, Le Carillon Maudit, L'Horloge du Croque-Mitaine) ; entre deux morceaux, la nuit : corbeaux, cloches d'église au loin, hibou, loups. Fini le « TIIIING » : la contrebasse métallique (c'était aussi le « DRRRING » de la Valse des Pendus) est remplacée par une contrebasse ronde, mélodies adoucies. Juke-box : section Halloween, boutons « Toutes en jeu » et « Par défaut »."
+  "notes": "0.7.4 : plus jamais le « TIIIING » — contrebasse ronde à la place de la corde Karplus-Strong — Joueur : « l'instrument qui fait TIIIING, hyper fort par rapport au reste, ça nique les oreilles, ne me remets jamais ce\nson » (Squelettes, Manoir, Sorcières, Tango, Horloge). Mesuré au rendu hors ligne (pièce avec / sans chaque instrument) :\nla corde Karplus-Strong (I.pluck) employée en contrebasse et e"
 }
