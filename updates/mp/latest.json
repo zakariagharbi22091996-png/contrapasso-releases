@@ -1,11 +1,11 @@
 {
-  "build": 1792620088,
-  "version": "0.6.9",
-  "file": "game-1792620088.json.gz",
-  "sha256": "c73f493568bc8e9c22da19000fdada881fb7927bc007f15e950e408f3f6c4124",
-  "size": 1517768,
+  "build": 1792670221,
+  "version": "0.7.0",
+  "file": "game-1792670221.json.gz",
+  "sha256": "8542a5c1aa1cdff24857411dbeeac83149bdc0d0269331fcd24cbb8e1325e162",
+  "size": 1617939,
   "minShell": 1,
-  "date": "2026-10-21T22:01:28.000Z",
-  "commit": "497d130",
-  "notes": "0.6.9 : désynchronisations du multijoueur corrigées (Fortifier, Réparer, jauge des diablotins) et diagnostic lisible ; voix des créatures à la sélection ; haut-parleur pour couper la musique du menu ; onglet Démons lisible et défilement en tirant la page ; or par minute ; diablotins à prix fixe (50 or) ; « Rejoindre » vide le numéro du salon ; bâtiment requis nommé."
+  "date": "2026-10-22T11:57:01.000Z",
+  "commit": "fc19b15",
+  "notes": "0.7.0 : équipes 1 à 4 en multijoueur (coéquipiers côte à côte, guerre des équipes après la Trêve) ; un Diable vaincu laisse des ruines neutres et regarde la fin en spectateur, score figé et tableau de comparaison ; nouvelles unités : Pique-sous (Trésor, ramasse l'or au sol) et Faucheuse (Puits, ramène les âmes de toute la carte, dévore les oubliées) ; la Gifle revient (touche ², un fuyard tombe à la première claque) ; les diablotins posent des torches ; sans Trésor l'or va au Trône, capacité affichée, l'or au sol n'est jamais perdu ; plus de plafond par type de démon ; double-clic + « Améliorer les N » ; héros, Commandant et archidémons renforcés, vagues plus espacées ; douze musiques et un juke-box ; tutoriel refait ; patrouille au clic droit."
 }
