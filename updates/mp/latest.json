@@ -1,11 +1,11 @@
 {
-  "build": 1792703141,
-  "version": "0.7.3",
-  "file": "game-1792703141.json.gz",
-  "sha256": "0c1bcbe5edac68ed3e43633d865aba9bb9a3c56ec68efc0345cad0d6850ed10e",
-  "size": 1636774,
+  "build": 1792709487,
+  "version": "0.7.4",
+  "file": "game-1792709487.json.gz",
+  "sha256": "4baf02a3b3725446c82a9c2c053d8e7e24cdac78f682bf934e18a6f6dc49374a",
+  "size": 1650343,
   "minShell": 1,
-  "date": "2026-10-22T21:05:41.000Z",
-  "commit": "cfdec2d",
-  "notes": "0.7.3 : en multijoueur, un joueur coupé (lag, box) se reconnecte tout seul et retrouve son royaume (jeu fermé : Rejoindre avec le même pseudo) ; « Abandonner la partie » reste définitif. Commandant choisi dans un menu déroulant qui montre les cinq. Icône « Tes champions » en haut à droite : un clic pour aller sur chacun (Fin ré-appuyée : champion suivant). Le bouton « oisifs » ne fait plus sauter la liste des démons (la Faucheuse redevient cliquable). Dézoom fluide (fini l'à-coup). Cinq nouvelles musiques (Larmes du Sous-sol, Comptine du Placard, Les Entrailles, Cœur Battant, Chant des Âmes Apaisées) ; le tambourin qui faisait « drrring » est retiré."
+  "date": "2026-10-22T22:51:27.000Z",
+  "commit": "60adee4",
+  "notes": "0.7.4 — Dix musiques d'Halloween tournent par défaut en partie (La Nuit des Corbeaux, La Danse des Squelettes, Le Manoir Hanté, Minuit au Cimetière, Le Bal des Sorcières, Le Tango des Citrouilles, La Brume, La Pleine Lune, Le Carillon Maudit, L'Horloge du Croque-Mitaine) ; entre deux morceaux, la nuit : corbeaux, cloches d'église au loin, hibou, loups. Fini le « TIIIING » : la contrebasse métallique (c'était aussi le « DRRRING » de la Valse des Pendus) est remplacée par une contrebasse ronde, mélodies adoucies. Juke-box : section Halloween, boutons « Toutes en jeu » et « Par défaut »."
 }
