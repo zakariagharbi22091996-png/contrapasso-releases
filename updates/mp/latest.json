@@ -1,11 +1,11 @@
 {
-  "build": 1792683451,
-  "version": "0.7.1",
-  "file": "game-1792683451.json.gz",
-  "sha256": "62d2bc8341cf0bebf1449e404f7c60d701d8bfef25a936bf32aefffcab906d1e",
-  "size": 1620099,
+  "build": 1792695415,
+  "version": "0.7.2",
+  "file": "game-1792695415.json.gz",
+  "sha256": "bbd8c994a57951b72367917b814ed7ead974a93e86047a04c9b8a69fc9a5a0b1",
+  "size": 1621899,
   "minShell": 1,
-  "date": "2026-10-22T15:37:31.000Z",
-  "commit": "fe9ab43",
-  "notes": "0.7.1 : équilibrage mesuré. La difficulté s'installe d'ici la 4e vague (plus de pic à la 2e en Très difficile) puis durcit la fin de partie (héros plus coriaces dès la 6e vague, infobulle « Prochains héros : PV ×… »). Démons d'élite nettement renforcés (Liche, Éfrit, Wight, Dévoreur, Ombre, Vampire, Chevalier damné, Golem, Abyssal…), Bourreau un peu moins fort. Pacte : un Déchu ne garde plus une force au-delà du niveau 10. Correction : une vague pouvait rester figée dans un couloir étroit (partie impossible à finir)."
+  "date": "2026-10-22T18:56:55.000Z",
+  "commit": "e22cf2b",
+  "notes": "0.7.2 : ordres façon RTS. Un clic droit pour déplacer ou attaquer laisse un anneau au sol qui se resserre et s'efface (vert : aller, rouge : attaquer, bleu : patrouiller) au lieu des carrés pointillés. Plus de carré sous le curseur quand des créatures sont sélectionnées. Les trajets et drapeaux ne s'affichent qu'en maintenant Maj (option « Trajets des créatures toujours visibles » dans Options → Jeu)."
 }
