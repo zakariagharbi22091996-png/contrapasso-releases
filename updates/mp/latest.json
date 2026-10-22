@@ -1,11 +1,11 @@
 {
-  "build": 1792670221,
-  "version": "0.7.0",
-  "file": "game-1792670221.json.gz",
-  "sha256": "8542a5c1aa1cdff24857411dbeeac83149bdc0d0269331fcd24cbb8e1325e162",
-  "size": 1617939,
+  "build": 1792683451,
+  "version": "0.7.1",
+  "file": "game-1792683451.json.gz",
+  "sha256": "62d2bc8341cf0bebf1449e404f7c60d701d8bfef25a936bf32aefffcab906d1e",
+  "size": 1620099,
   "minShell": 1,
-  "date": "2026-10-22T11:57:01.000Z",
-  "commit": "fc19b15",
-  "notes": "0.7.0 : équipes 1 à 4 en multijoueur (coéquipiers côte à côte, guerre des équipes après la Trêve) ; un Diable vaincu laisse des ruines neutres et regarde la fin en spectateur, score figé et tableau de comparaison ; nouvelles unités : Pique-sous (Trésor, ramasse l'or au sol) et Faucheuse (Puits, ramène les âmes de toute la carte, dévore les oubliées) ; la Gifle revient (touche ², un fuyard tombe à la première claque) ; les diablotins posent des torches ; sans Trésor l'or va au Trône, capacité affichée, l'or au sol n'est jamais perdu ; plus de plafond par type de démon ; double-clic + « Améliorer les N » ; héros, Commandant et archidémons renforcés, vagues plus espacées ; douze musiques et un juke-box ; tutoriel refait ; patrouille au clic droit."
+  "date": "2026-10-22T15:37:31.000Z",
+  "commit": "fe9ab43",
+  "notes": "0.7.1 : équilibrage mesuré. La difficulté s'installe d'ici la 4e vague (plus de pic à la 2e en Très difficile) puis durcit la fin de partie (héros plus coriaces dès la 6e vague, infobulle « Prochains héros : PV ×… »). Démons d'élite nettement renforcés (Liche, Éfrit, Wight, Dévoreur, Ombre, Vampire, Chevalier damné, Golem, Abyssal…), Bourreau un peu moins fort. Pacte : un Déchu ne garde plus une force au-delà du niveau 10. Correction : une vague pouvait rester figée dans un couloir étroit (partie impossible à finir)."
 }
