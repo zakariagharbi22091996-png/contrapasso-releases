@@ -1,11 +1,11 @@
 {
-  "build": 1792766915,
-  "version": "0.7.5",
-  "file": "game-1792766915.json.gz",
-  "sha256": "2740fceaaacb3d34be887b7eb84669070a6c2a704df32b0ba9be1f31e2da63ea",
-  "size": 1652732,
+  "build": 1792771582,
+  "version": "0.7.6",
+  "file": "game-1792771582.json.gz",
+  "sha256": "08909685a60ee2f2e8439859eeb2bd733f0878bce87d32e81d20a8c88fda54b9",
+  "size": 1655467,
   "minShell": 1,
-  "date": "2026-10-23T14:48:35.000Z",
-  "commit": "0e6c993",
-  "notes": "0.7.5 — Un clic sur une créature la sélectionne même si l'outil Creuser (X), Revendiquer ou Fortifier est actif : l'outil se range tout seul (pareil en cliquant un bâtiment là où l'outil n'a rien à faire). Le curseur de sélection l'annonce au survol. Glisser creuse toujours, même en partant d'une créature."
+  "date": "2026-10-23T16:06:22.000Z",
+  "commit": "bb1fcfe",
+  "notes": "0.7.6 : tes unités militaires ne bougent plus sans ordre (elles montent la garde à leur poste, frappent ce qui approche puis reviennent ; repas servi sur place si tes Charniers suffisent). Les patrouilles (et l'attaque-déplacement) attaquent tout ennemi qu'elles voient à moins de 10 cases, puis reprennent leur ronde."
 }
