@@ -1,11 +1,11 @@
 {
-  "build": 1792765887,
-  "version": "0.7.4",
-  "file": "game-1792765887.json.gz",
-  "sha256": "4a30ab8b0a0460b3fbb9760eae0b0248797f3d8d27efec2e945223bd4d144b20",
-  "size": 1661185,
+  "build": 1792766915,
+  "version": "0.7.5",
+  "file": "game-1792766915.json.gz",
+  "sha256": "2740fceaaacb3d34be887b7eb84669070a6c2a704df32b0ba9be1f31e2da63ea",
+  "size": 1652732,
   "minShell": 1,
-  "date": "2026-10-23T14:31:27.000Z",
-  "commit": "60adee4",
-  "notes": "0.7.4 : plus jamais le « TIIIING » — contrebasse ronde à la place de la corde Karplus-Strong — Joueur : « l'instrument qui fait TIIIING, hyper fort par rapport au reste, ça nique les oreilles, ne me remets jamais ce\nson » (Squelettes, Manoir, Sorcières, Tango, Horloge). Mesuré au rendu hors ligne (pièce avec / sans chaque instrument) :\nla corde Karplus-Strong (I.pluck) employée en contrebasse et e"
+  "date": "2026-10-23T14:48:35.000Z",
+  "commit": "0e6c993",
+  "notes": "0.7.5 — Un clic sur une créature la sélectionne même si l'outil Creuser (X), Revendiquer ou Fortifier est actif : l'outil se range tout seul (pareil en cliquant un bâtiment là où l'outil n'a rien à faire). Le curseur de sélection l'annonce au survol. Glisser creuse toujours, même en partant d'une créature."
 }
