@@ -1,11 +1,11 @@
 {
-  "build": 1792712392,
+  "build": 1792765887,
   "version": "0.7.4",
-  "file": "game-1792712392.json.gz",
-  "sha256": "0781af1eb5689222d83289e57663a4a39153331f3dc1206a6db0e3ca937da8b6",
+  "file": "game-1792765887.json.gz",
+  "sha256": "4a30ab8b0a0460b3fbb9760eae0b0248797f3d8d27efec2e945223bd4d144b20",
   "size": 1661185,
   "minShell": 1,
-  "date": "2026-10-22T23:39:52.000Z",
+  "date": "2026-10-23T14:31:27.000Z",
   "commit": "60adee4",
   "notes": "0.7.4 : plus jamais le « TIIIING » — contrebasse ronde à la place de la corde Karplus-Strong — Joueur : « l'instrument qui fait TIIIING, hyper fort par rapport au reste, ça nique les oreilles, ne me remets jamais ce\nson » (Squelettes, Manoir, Sorcières, Tango, Horloge). Mesuré au rendu hors ligne (pièce avec / sans chaque instrument) :\nla corde Karplus-Strong (I.pluck) employée en contrebasse et e"
 }
